@@ -1,4 +1,4 @@
-<h1>Sistem de Cadastro de Jogos - Curso Alura</h1>
+<h1>Sistem de Cadastro de Jogos - Curso Git/Github Alura</h1>
 
 > Status do projeto: Em desenvolvimento
 
